@@ -7,13 +7,13 @@
 A collection of live projects within the Aptos ecosystem.
 
 - [Project Categories](#project-categories)
-    - [DeFi](#defi)
-    - [Infra](#infra)
-    - [Marketplace](#marketplace)
-    - [NFT Tooling](#nft-tooling)
-    - [Stablecoins](#stablecoins)
-    - [Tooling](#tooling)
-    - [Wallets](#wallets)
+  - [DeFi](#defi)
+  - [Infra](#infra)
+  - [Marketplace](#marketplace)
+  - [NFT Tooling](#nft-tooling)
+  - [Stablecoins](#stablecoins)
+  - [Tooling](#tooling)
+  - [Wallets](#wallets)
 - [Contribution Guidelines](#contribution-guidelines)
 
 ---
@@ -21,6 +21,7 @@ A collection of live projects within the Aptos ecosystem.
 # Project Categories
 
 ## DeFi
+
 - AnimeSwap - [Github](https://reactjs.org/) | [Twitter](https://twitter.com/animeswap_org)
 - Argo - [Twitter](https://twitter.com/ArgoUSD) | [Website](https://argo.fi/)
 - Aries Markets - [Twitter](https://twitter.com/AriesMarkets) | [Website](https://ariesmarkets.xyz/)
@@ -33,26 +34,31 @@ A collection of live projects within the Aptos ecosystem.
 - Tortuga - [Twitter](https://twitter.com/TortugaFinance) | [Website](https://tortuga.finance/)
 
 ## Infra
+
 - Crust - [Github](https://github.com/crustio) | [Twitter](https://twitter.com/CrustNetwork) | [Website](https://crust.network/)
 - Pyth Network - [Github](https://github.com/pyth-network) | [Twitter](https://twitter.com/PythNetwork) | [Website](https://pyth.network/)
 - Wormhole - [Github](https://github.com/wormhole-foundation/wormhole) | [Twitter](https://twitter.com/wormholecrypto) | [Website](https://wormhole.com/)
 
 ## Marketplace
+
 - BlueMove - [Twitter](https://twitter.com/BlueMove_OA) | [Website](https://bluemove.net/)
 - Mojito Markets - [Twitter](https://twitter.com/MojitoMarkets) | [Website](https://mojitomarkets.exchange/)
 - Souffl3 - [Twitter](https://twitter.com/nft_souffl3) | [Website](https://souffl3.com/)
 - Topaz - [Twitter](https://mobile.twitter.com/topazmarket) | [Website](https://www.topaz.so/)
 
 ## NFT Tooling
+
 - Blocto - [Github](https://github.com/portto) | [Twitter](https://twitter.com/BloctoApp) | [Website](https://token.blocto.app/)
 - Souffl3 - [Twitter](https://twitter.com/nft_souffl3) | [Website](https://souffl3.com/)
 - Topaz - [Twitter](https://mobile.twitter.com/topazmarket) | [Website](https://www.topaz.so/)
 
 ## Stablecoins
+
 - Argo - [Twitter](https://twitter.com/ArgoUSD) | [Website](https://argo.fi/)
 - Thala Labs - [Twitter](https://twitter.com/ThalaLabs) | [Website](https://www.thalalabs.xyz/)
-    
+
 ## Tooling
+
 - Aptos Name Service - [Twitter](https://twitter.com/aptosnames)
 - Celer - [Twitter](https://twitter.com/CelerNetwork) | [Website](https://www.celer.network/)
 - Dialect - [Github](https://github.com/dialectlabs) | [Twitter](https://twitter.com/saydialect) | [Website](https://www.dialect.to/)
@@ -62,6 +68,7 @@ A collection of live projects within the Aptos ecosystem.
 - Switchboard - [Github](https://github.com/switchboard-xyz) | [Twitter](https://twitter.com/switchboardxyz) | [Website](https://switchboard.xyz/)
 
 ## Wallets
+
 - Blocto - [Github](https://github.com/portto) | [Twitter](https://twitter.com/BloctoApp) | [Website](https://token.blocto.app/)
 - Fewcha - [Github](https://github.com/fewcha-wallet) | [Twitter](https://twitter.com/fewchawallet) | [Website](https://fewcha.app/)
 - Fletch - [Website](https://fletchwallet.io/)
@@ -74,8 +81,11 @@ A collection of live projects within the Aptos ecosystem.
 - Rise Wallet - [Twitter](https://twitter.com/rise_wallet) | [Website](https://risewallet.io/)
 - Trust Wallet - [Github](https://github.com/trustwallet) | [Twitter](https://twitter.com/trustwallet) | [Website](https://trustwallet.com/)
 
----
+## Launchpad
 
+- Proton Sale - [Github](https://github.com/0xmodule/proton-sale) | [Twitter](https://twitter.com/protonsale_apt) | [Website](https://protonsale.io/)
+
+---
 
 # Contribution Guidelines
 
@@ -84,13 +94,12 @@ Please note that this list is released with a [Contributor Code of Conduct](code
 
 Ensure your pull request adheres to the following:
 
-- Project Name in *Title Case* followed by ` - `
-- Accepted Links - *Github*, *Twitter*, *Website URL* each seperated by ` | `
-- Ensure project is grouped within the correct category, no more than *2* allowed
+- Project Name in _Title Case_ followed by `-`
+- Accepted Links - _Github_, _Twitter_, _Website URL_ each seperated by `|`
+- Ensure project is grouped within the correct category, no more than _2_ allowed
 - Entries should be arranged in alphabetical order sorted by Project Name
 
 Example: `Project Name - [Github](url) | [Twitter](url) | [Website](url)`
-
 
 ## Updating your PR
 
